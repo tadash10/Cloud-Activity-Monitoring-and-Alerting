@@ -1,0 +1,8 @@
+{
+    "CLOUD_PROVIDER": "AWS",
+    "LOG_SOURCE": "CloudTrail",
+    "ALERT_THRESHOLD": 5,
+    "LOG_INTERVAL_SECONDS": 60,
+    "ADMIN_EMAIL": "admin@example.com",
+    "LOG_FILE": "/var/log/cloud_monitor.log"
+}
